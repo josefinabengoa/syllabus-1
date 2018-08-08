@@ -23,28 +23,28 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 ### Ayudantes
 - Felipe Ignacio Pezoa - fipezoa@uc.cl
 - Luis Leiva Sanchez - lileiva@uc.cl
-- Romano Fenzo (rfenzo@uc.cl)
-- Kevin James Johnson (kjjohnson@uc.cl)
-- José Manuel Larraín (jnlarrain@uc.cl)
-- Barbara Guiselle Samilla (bgsamilla@uc.cl)
+- Romano Fenzo - rfenzo@uc.cl
+- Kevin James Johnson - kjjohnson@uc.cl
+- José Manuel Larraín - jnlarrain@uc.cl
+- Barbara Guiselle Samilla - bgsamilla@uc.cl
 
 ## Evaluaciones:
 ### Cátedra
 - Exámen TBA
 ### Tareas - Fecha Publicación
-- T1 - 
-- T2 
-- T3
-- T4 
-- T5 
-- T6 
-- T7 
-- T8
-- T9 
-- T10 
-- T11
-- T12 
-- T13 
+- T1 - Lunes 13 de agosto
+- T2 - Lunes 20 de agosto
+- T3 - Lunes 27 de agosto
+- T4 - Lunes 3 de septiembre
+- T5 - Lunes 10 de septiembre
+- T6 - Lunes 24 de septiembre
+- T7 - Lunes 1 de octubre
+- T8 - Lunes 8 de octubre
+- T9 - Lunes 15 de octubre
+- T10 - Lunes 22 de octubre
+- T11 - Lunes 29 de octubre
+- T12 - Lunes 5 de noviembre
+- T13 - Lunes 12 de noviembre
 
 ## Política de integridad académica
 Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
