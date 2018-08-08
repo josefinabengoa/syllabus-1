@@ -23,6 +23,10 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 ### Ayudantes
 - Felipe Ignacio Pezoa - fipezoa@uc.cl
 - Luis Leiva Sanchez - lileiva@uc.cl
+- Romano Fenzo (rfenzo@uc.cl)
+- Kevin James Johnson (kjjohnson@uc.cl)
+- José Manuel Larraín (jnlarrain@uc.cl)
+- Barbara Guiselle Samilla (bgsamilla@uc.cl)
 
 ## Evaluaciones:
 ### Cátedra
