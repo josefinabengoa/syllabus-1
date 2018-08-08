@@ -20,7 +20,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 - Francesca Lucchini - flucchini@uc.cl
 ### Ayudante de cátedra
 - Germán Contreras - glcontreras@uc.cl
-### Ayudantes de proyecto
+### Ayudantes
 - Felipe Ignacio Pezoa - fipezoa@uc.cl
 - Luis Leiva Sanchez - lileiva@uc.cl
 
