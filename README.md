@@ -30,7 +30,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 
 ## Evaluaciones:
 ### Cátedra
-- Exámen TBA
+- Exámen, Martes 27 de noviembre
 ### Tareas - Fecha Publicación
 - T1 - Lunes 13 de agosto
 - T2 - Lunes 20 de agosto
