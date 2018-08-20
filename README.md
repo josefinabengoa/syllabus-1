@@ -17,6 +17,9 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 1. Asignación Tareas: https://docs.google.com/spreadsheets/d/1nK3qmlJ2jBAVBm6Z8iwUBuA0ojeg3ZdZntIcisDW0lU/edit?usp=sharing
 2. Notas: TBA
 
+Crear repositorios
+1. Tarea 1: https://classroom.github.com/a/Y3N9NxUh
+
 ## Contacto:
 ### Profesores
 - Hans Löbel - halobel@ing.puc.cl
