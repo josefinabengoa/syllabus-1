@@ -27,10 +27,11 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 - Kevin James Johnson - kjjohnson@uc.cl
 - José Manuel Larraín - jnlarrain@uc.cl
 - Barbara Guiselle Samilla - bgsamilla@uc.cl
+- Emilio Rocangliolo - egroncag@uc.cl
 
 ## Evaluaciones:
 ### Cátedra
-- Exámen, Martes 27 de noviembre
+- Exámen, Martes 27 de noviembre 09:00 Hrs
 ### Tareas - Fecha Publicación
 - T1 - Lunes 13 de agosto
 - T2 - Lunes 20 de agosto
