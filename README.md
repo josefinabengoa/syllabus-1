@@ -19,6 +19,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 
 Crear repositorios
 1. Tarea 1: https://classroom.github.com/a/Y3N9NxUh
+2. Tarea 2: https://classroom.github.com/a/e-yoHaOY
 
 Tutoriales:
 1. Simulación en Vivado: https://www.youtube.com/watch?v=-elB52-D-Lg&t=1s
