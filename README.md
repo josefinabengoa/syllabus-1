@@ -14,14 +14,16 @@ estos conocimientos y habilidades se requiere por una parte adquirir el conocimi
 lo que es un computador, pero también ser capaz de llevarlo a la práctica en las tareas.
 
 ## Links Importantes
-1. Asignación Tareas: https://docs.google.com/spreadsheets/d/1nK3qmlJ2jBAVBm6Z8iwUBuA0ojeg3ZdZntIcisDW0lU/edit?usp=sharing
-2. Notas: TBA
+**Administrativo**
+* Asignación Tareas: https://docs.google.com/spreadsheets/d/1nK3qmlJ2jBAVBm6Z8iwUBuA0ojeg3ZdZntIcisDW0lU/edit?usp=sharing
+* Notas: TBA
 
-Crear repositorios
-1. Tarea 1: https://classroom.github.com/a/Y3N9NxUh
+**Crear repositorios**
+* Tarea 1: https://classroom.github.com/a/Y3N9NxUh
+* Tarea 2: https://classroom.github.com/a/e-yoHaOY
 
-Tutoriales:
-1. Simulación en Vivado: https://www.youtube.com/watch?v=-elB52-D-Lg&t=1s
+**Tutoriales:**
+* Simulación en Vivado: https://www.youtube.com/watch?v=-elB52-D-Lg&t=1s
 
 ## Contacto:
 ### Profesores
