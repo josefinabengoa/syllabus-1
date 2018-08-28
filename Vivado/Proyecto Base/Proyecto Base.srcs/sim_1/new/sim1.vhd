@@ -39,18 +39,18 @@ architecture Behavioral of sim1 is
 
 component Basys3
     Port (
-        sw          : in   std_logic_vector (3 downto 0);
+        sw          : in   std_logic_vector (15 downto 0);
         btn         : in   std_logic_vector (4 downto 0);
-        led         : out  std_logic_vector (3 downto 0);
+        led         : out  std_logic_vector (15 downto 0);
         clk         : in   std_logic;
         seg         : out  std_logic_vector (7 downto 0);
         an          : out  std_logic_vector (3 downto 0)
     );
 end component;
 
-signal sw  : std_logic_vector(3 downto 0)  := (others => '0');
+signal sw  : std_logic_vector(15 downto 0)  := (others => '0');
 signal btn : std_logic_vector (4 downto 0)  := (others => '0'); 
-signal led : std_logic_vector (3 downto 0) := (others => '0'); 
+signal led : std_logic_vector (15 downto 0) := (others => '0'); 
 signal clk : std_logic := '0';                     
 signal seg : std_logic_vector (7 downto 0)  := (others => '0');  
 signal an  : std_logic_vector (3 downto 0)  := (others => '0');
@@ -60,7 +60,7 @@ BEGIN
  proc: process
  begin 
      btn <= "01010";
-     sw <= "1001";
+     sw <= "1001100110011001";
      clk <= '0';
      L1: loop
          if clk = '0' then
