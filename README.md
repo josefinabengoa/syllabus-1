@@ -21,6 +21,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 **Crear repositorios**
 * Tarea 1: https://classroom.github.com/a/Y3N9NxUh
 * Tarea 2: https://classroom.github.com/a/e-yoHaOY
+* Tarea 3: https://classroom.github.com/a/0yI7wc_n
 
 **Tutoriales:**
 * Simulación en Vivado: https://www.youtube.com/watch?v=-elB52-D-Lg&t=1s
